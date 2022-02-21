@@ -1,0 +1,28 @@
+[
+  {
+    "nome": "Serpentina",
+    "categoria": "Infantil",
+    "preco": 30
+  },
+  {
+    "nome": "Confete",
+    "categoria": "Infantil",
+    "preco": 10
+  },
+  {
+    "nome": "Refrigerante",
+    "categoria": "Bebida",
+    "quantidade": 3,
+    "preco": 7
+  },
+  {
+    "nome": "Cerveja",
+    "categoria": "Bebida",
+    "preco": 8
+  },
+  {
+    "nome": "Sanduíche",
+    "categoria": "Alimentação",
+    "preco": 12
+  }
+]
